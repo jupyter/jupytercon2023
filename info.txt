@@ -1,0 +1,60 @@
+# JupyterCon
+
+- combien de track
+- taille, 
+
+
+Argent a Bloomberg widget interactive jupyter xxxx done  $xxxx
+Community workshop.
+
+Bloomberg – $xxxxx community building. Jason, Ana, (Sylvain) – Rollin Thomas, Martha Crayon, Isabella Presedo Floyd.
+
+Sous traité a O'Reilly media 2017 - 2018. 
+Lorena 2020 Berlin, – lieu payé – covid. Ed Ex....
+
+2023 – Cité des sciences.
+
+PyData cookie cutter.
+
+--- 
+
+Test site review
+
+Jupyter for education
+
+
+Planetarium a partir de 18h. 250 places.
+
+2 jours + tables, tutorial
+
++ tutorial on français.
+
++ calendrier
+
++ interessé a reviewer
++ interessé plus d'info jupytercon ML.
+
++ date en novembre.
+
+petit dej sur place ou pas le matin ? 
+hotel aux alentours. 
+
+- Cafe croissant accueil
+- distribuer les bages la veille – pas forcément a la cite des sciences.
+- Test Covid ?
+
+_ comment sont les badges ? Quel informations sur les badges.
+- avatar des gens.
+- lightning soir ou ouverture aprem. – 2 podium. 
+- Poster ? + boisson. 
+
+
+8 salles:
+- 2 tutoriaux
+- 2 poster ?
+- 2 UX ? 
+- 1 green
+- 1 open . 
+- Plan architectural
+
+
