@@ -15,30 +15,30 @@ Authors submit proposals XXX
 
 JupyterCon talks are 30 minutes long.  Talks are organized into the following tracks:
 
+- **Community: tools and practices** Talks that address the community
+  tooling and best practices in the Jupyter ecosystem. Community tools include
+  frontends, kernels, extensions, and other tools in the Jupyter ecosystem.
+  Community practices include how Jupyter is used in a workflow and
+  introspection into the Jupyter community itself.
+
 - **Enterprise Jupyter Infrastructure**: Talks that address deploying Jupyter
   and JupyterHub at scale in industry, government, high-performance computing,
   science, education, and other settings. Topics include DevOps, scaling
   services, security concerns, regulation compliance, and more.
 
 - **Jupyter in Education**: Talks that address how to teach and learn using
-  Jupyter in a variety of settings. Jupyter in scientific research
+  Jupyter in a variety of settings.
 
 - **Jupyter for scientific discoveries** Talks that address how Jupyter is
   used in specific scientific research fields, such as medical research,
   astronomy, physics, climate change, meteorology, and more. Data science
   applications
 
-- **Jupyter & Data Science** Talks that address how Jupyter is used by data
+- **Data Science** Talks that address how Jupyter is used by data
   science practitioners in industry, government, and elsewhere. 
 
-- **Jupyter community: tools and practices** Talks that address the community
-  tooling and best practices in the Jupyter ecosystem. Community tools include
-  frontends, kernels, extensions, and other tools in the Jupyter ecosystem.
-  Community practices include how Jupyter is used in a workflow and
-  introspection into the Jupyter community itself.
-
 - **Others** Talks that address anything else (as long as it's relevant to the
-  Jupyter
+  Jupyter)
 
 # Posters at JupyterCon 2020
 
@@ -56,7 +56,6 @@ A poster presentation consists of:
     A small thumbnail image (JPG or PNG) for our poster gallery (1280x720 pixels)
     A poster pdf file (preferred size: A2, 16.5 x 23.4 inches)
     A short description, which may include a link to an interactive site, such as a Voilà dashboard
-    A short video (at most 2 minutes) introducing your project
 
 # Guidelines for proposing a talk or poster
 
@@ -74,6 +73,9 @@ published as a part of the conference program if your talk is accepted:
 The primary presenter should submit the proposal, and afterwards the proposal
 can be edited to add other authors.
 
+Can the speaker profile be edited after acceptance, so that we don't require
+unnecessary informations.
+
 ## Proposal
 
 A talk or poster proposal must include the following information that will be
@@ -81,6 +83,7 @@ listed publicly in the conference program for accepted talks or posters.
 
 - Title: Give your talk a title that accurately describes its content and
   focus to the potential attendees.
+
 - Audience: Describe what level of programming/coding and other topic-specific
   knowledge, experience or expertise your talk is aiming for. Will the
   attendees need multiple skills or proficiency in tools other than Jupyter
@@ -90,11 +93,11 @@ listed publicly in the conference program for accepted talks or posters.
   different people. Feel free to include any additional details regarding
   prerequisites for your talk, as well as what audience may benefit from it.
 
-- Brief summary: Submit a short paragraph describing the topic and key
+- A summary: Submit a short paragraph describing the topic and key
   takeaways for attendees. The description will be included in the conference
   program announcements, should it be selected.
 
-- A detailed outline: This is a self-contained statement that summarises the
++ (merge this with brief summary) A detailed outline: This is a self-contained statement that summarises the
   objective of the talk or poster, its outline, central thesis, and key
   takeaways. After reading the description, the audience should have an idea
   of the overall presentation and know what to expect. The description should
@@ -154,5 +157,157 @@ listed publicly in the conference program for accepted talks or posters.
 The tips above were adapted from the PyData resources. We also recommend
 checking out blog posts by Craig Kerstiens and Hynek Schlawack for more great
 advice on this topic.
+
+# Misc
+
+- Ask during CFP if submitter would agree to review submission and in which
+categories. 
+
+- Financial Aid. 
+
+- 1 form, poster &| presentation.
+
+- Tell submitters that we target a ~25-30 minute talks slots question and
+  speaker change included. But we reserve the right to extend/shrink depending
+  on submissions number and interests.
+
+- Everything in English, except maybe 1 tuto.
+
+- Track maybe French only Friday afternoon ? Demander a l'afpy.
+
+- Indicate in CFP that we are considering offering child care, please contact us
+  separately to let us know you are interested.
+
+- French Authority prevent us to enforce vaccination and Covid testing status +
+  lien vers recommendation. 
+
+- Do we remunerate tutorials givers, or do we use financial assistance. 
+
+- Certificat at end of tuto.
+
+- Lanyard of different color depending on access.
+
+- Tuto soumission 2h, 2h30, 4h30.
+
+- Indiquet talk CFP that tuto CFP will be later. 
+
+
+
+# Schedule
+
+
+
+
+Tuesday:
+
+ - Install and first badges for early attendees. 
+
+
+Wednesday:
+
+Attendees will need to register get bags, so maybe start a bit later that day. 
+Don't start too early, we are in Paris. 
+
+- is there breakfast before ? 
+
+ # 1 track
+ - 08:00-09:00 badges, coffee.
+ - 09:00-10h00 - Conf intro + First Keynote. 
+
+ - 10:00-10:30 – break coffee
+
+ ## 3 tracks.
+ - G  10:30 - 12h30 - 4 talks of 30 minutes 
+ - A1 10:30 - 13h00 - 5 talks of 30 minutes. 
+ - A1 10:30 - 13h00 - 5 talks of 30 minutes. 
+ - T1 10:00 - 12h30 - 2h30 
+ - T2 10:00 - 12h30 - 2h30 
+ 
+Lunch. 
+
+ - G  14h00 – 16h00 - 4 talks of 30 minutes. 
+ - A1 14h30 – 16h00 - 3 talks of 30 minutes. 
+ - A2 14h30 – 16h00 - 3 talks of 30 minutes. 
+ - T1 14:00 - 16h00 - 2h00 
+ - T2 14:00 - 16h00 - 2h00 
+
+ - Gouter. 
+
+
+ - G: 16:30 - 17h30 - All in amphitheater and other submissions  
+ - A1/A2 - rien.
+
+ - G: 17:30 - 18h30 - Lightning talks - inscription sur place – tirage au sort. 
+
+Reception first day TBD.
+
+
+Are we constrained for coffee and lunch breaks? 
+
+
+Stagger ends and beginning of talks. 
+
+
+Thurday:
+
+
+- is there breakfast before ? 
+
+ # 1 track
+ - 08:00-09:00 coffee ?
+ - 09:00-09h15 - intro second day
+ - 09:15-10 - Keynote / Pannel ? 
+
+ - 10:00-10:30 – break coffee
+
+ ## 3 tracks.
+ - G  10:30 - 12h30 - 4 talks of 30 minutes 
+ - A1 10:30 - 13h00 - 5 talks of 30 minutes. 
+ - A1 10:30 - 13h00 - 5 talks of 30 minutes. 
+ - T1 10:00 - 12h30 - 2h30 
+ - T2 10:00 - 12h30 - 2h30 
+ 
+Lunch. 
+
+ - G  14h00 – 16h00 - 4 talks of 30 minutes. 
+ - A1 14h30 – 16h00 - 3 talks of 30 minutes. 
+ - A2 14h30 – 16h00 - 3 talks of 30 minutes. 
+ - T1 14:00 - 16h00 - 2h00 
+ - T2 14:00 - 16h00 - 2h00 
+
+
+ - G: 16:30 - 17h30 - Lightning talks - inscription sur place – tirage au sort.
+   (installation poster in parallel). + poster pitch ?
+
+ - Poster session followed by second day reception / pylady auction /
+   planetarium depending on what we decide. 
+
+
+Friday:
+
+- is there breakfast before ? 
+
+ # 1 track
+ - 08:00-09:00 coffee ?
+ - 09:00-09h15 - intro third day & goodbyes.
+ - 09:15-10 - Keynote  
+
+ - 10:00-10:30 – break coffee
+
+ ## 3 tracks people will start to leave. 
+
+ - G  10:30 - 12h30 - 4 talks of 30 minutes 
+ - A1 10:30 - 13h00 - 5 talks of 30 minutes. 
+ - A1 10:30 - 13h00 - 5 talks of 30 minutes. 
+ 
+Lunch. 
+
+ - G  14h00 – 16h00 - 4 talks of 30 minutes. 
+ - A1 14h30 – 16h00 - 3 talks of 30 minutes. 
+ - A2 14h30 – 16h00 - 3 talks of 30 minutes - In French ? 
+
+ - G 16:30-17h30 – Lightning, and misc. 
+
+
 
 
