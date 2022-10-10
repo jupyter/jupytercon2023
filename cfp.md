@@ -37,6 +37,9 @@ JupyterCon talks are 30 minutes long.  Talks are organized into the following tr
   Community practices include how Jupyter is used in a workflow and
   introspection into the Jupyter community itself.
 
+- **Others** Talks that address anything else (as long as it's relevant to the
+  Jupyter
+
 # Posters at JupyterCon 2020
 
 The poster session is a forum for ideas to be presented in a concise, visually
