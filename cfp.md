@@ -16,35 +16,34 @@ Authors submit proposals XXX
 JupyterCon talks are 30 minutes long.  Talks are organized into the following tracks:
 
 - **Community: tools and practices** Talks that address the community
-  tooling and best practices in the Jupyter ecosystem. Community tools include
-  frontends, kernels, extensions, and other tools in the Jupyter ecosystem.
+  tooling and the best practices in the Jupyter ecosystem. Community tools include
+  Jupyter frontends, kernels, extensions, and other tools of the ecosystem.
   Community practices include how Jupyter is used in a workflow and
   introspection into the Jupyter community itself.
 
-- **Enterprise Jupyter Infrastructure**: Talks that address deploying Jupyter
-  and JupyterHub at scale in industry, government, high-performance computing,
-  science, education, and other settings. Topics include DevOps, scaling
-  services, security concerns, regulation compliance, and more.
+- **Enterprise Jupyter Infrastructure**: Talks that address the deployment of
+  Jupyter and JupyterHub in the industry, government, at high-performance computing
+  facilities, and other settings. Topics include DevOps, scaling
+  services, security concerns, regulation, compliance, and more.
 
 - **Jupyter in Education**: Talks that address how to teach and learn using
-  Jupyter in a variety of settings.
+  Jupyter. Talks can present technological developments, or pedagogical subjects.
 
-- **Jupyter for scientific discoveries** Talks that address how Jupyter is
-  used in specific scientific research fields, such as medical research,
-  astronomy, physics, climate change, meteorology, and more. Data science
-  applications
+- **Jupyter for discovery** Talks that address how Jupyter is or can be
+  used in specific scientific and technical fields, such as medical research,
+  astronomy, physics, climate change, robotics, and more.
 
 - **Data Science** Talks that address how Jupyter is used by data
   science practitioners in industry, government, and elsewhere. 
 
-- **Others** Talks that address anything else (as long as it's relevant to the
+- **Others** Talks that address anything else (as long as it is relevant to the
   Jupyter)
 
 # Posters at JupyterCon 2020
 
 The poster session is a forum for ideas to be presented in a concise, visually
-appealing way. Posters can be work in progress or the highlights of a project
-you would like to share and discuss. Posters are shared as a static pdf file.
+appealing way. Posters can be used to present work in progress or the highlights
+of a project you would like to share and discuss. Posters are shared as a static pdf file.
 We also encourage you to consider linking to an ‘executable’ and ‘interactive’
 poster, such as a Voilà dashboard. Show us how you tell stories with Jupyter.
 
