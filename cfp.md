@@ -135,6 +135,7 @@ listed publicly in the conference program for accepted talks or posters.
     Here are some common pitfalls that could lead to the proposal being rejected:
 
         - **Overly long proposal** Keep it simple, clear and focused.
+
 	- **Future work** While talking about future work is interesting and
 	  could be mentioned in your talk, the core content of the talk should
 	  already be shaped, and you should be able to describe it in your
@@ -160,11 +161,31 @@ advice on this topic.
 
 # FORM TO ADD TO WEBSITE
 
+**Note**
+
+Due to the location of the venue, we want to inform you ahead of time that we
+will not be able to to check Covid vaccination status, nor enforce
+recent negative testing. Though we will recommend for attendees to wear masks,
+be vaccinated and regularly test. We will do our best to also provide quick test
+on the venue.
+
+Reminder: We are targeting 25-30 minutes talks, questions included.
+
+Tutorial submissions: JupyterCon will offer tutorials, but the CFP for tutorial
+will open at a later date.
+
+You are allowed to submit multiple talks proposals.
+
 - Are you submitting
     - a talk
     - a poster
     - a talk or poster
-- Choose the track that best fit your topic:
+
+"A talk or a poster": You are submitting a talk, but if there are not enough
+spots, you would still like to present the same subject as a poster.
+
+- Choose the track that best fit your topic, this is a guideline to help triage
+  talks and assign reviewers to them:
    - Community: tools & practices
    - Enterprise Jupyter Infrastructure
    - Jupyter in Education
@@ -174,9 +195,32 @@ advice on this topic.
 
 - Title
 - Summary
+- We are working on providing scholarships for attendees and speaker that may nt
+  have the financial capability to attend otherwise. Would you require
+  financial aid to attend ?
+
+You can edit your proposal after submission.
+
+**Help us review review JupyterCon submissions !** 
+
+Previous Year JupyterCons revived close to 1000 Submissions, we want your help
+to find the ones you want to see. If you are interested in helping review a few
+talks, please sign up on _this form_. (FIX ME), we will add you as a reviewer to
+the CFP website
 
 **Note:** We are considering child care options. Please reach out to us
 separately (FIXME HOW!!) if you are interested.
+
+Matthias: I suggest jupytercon@numfocus.org, and we ask to get access/delegation
+? 
+
+
+# I want to help review form
+
+Reviews will be blind, anonymous and not shared with submitters by default.
+
+ - mail
+ - prefered categories.
 
 
 
