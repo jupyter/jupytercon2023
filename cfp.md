@@ -1,5 +1,6 @@
+# CFP
 
-# Propose a talk or poster
+## Propose a talk or poster
 
 What lessons do you have to share with the Jupyter community? Have you
 developed good workflows using Jupyter? Have you solved tricky Jupyter
@@ -8,12 +9,14 @@ you have an interesting application using Jupyter? What do you wish you would
 have known when starting to use Jupyter? Propose a talk or poster at the
 JupyterCon!
 
-Authors submit proposals XXX 
-(Anywhere on Earth) Authors receive proposal accept/decline decision XX
+CFP opens: October 31st, 2022
+CFP closes: January, 31st, 2023 (Anywhere on Earth)
+Authors receive proposal accept/decline decision February, 28th, 2023
 
-# Talks at JupyterCon 2023
+## Talks at JupyterCon 2023
 
-JupyterCon talks are 30 minutes long.  Talks are organized into the following tracks:
+JupyterCon talks are 25 to 30 minutes long.  Talks are organized into the
+following tracks:
 
 - **Community: tools and practices** Talks that address the community
   tooling and best practices in the Jupyter ecosystem. Community tools include
@@ -40,7 +43,7 @@ JupyterCon talks are 30 minutes long.  Talks are organized into the following tr
 - **Others** Talks that address anything else (as long as it's relevant to the
   Jupyter)
 
-# Posters at JupyterCon 2020
+## Posters at JupyterCon 2020
 
 The poster session is a forum for ideas to be presented in a concise, visually
 appealing way. Posters can be work in progress or the highlights of a project
@@ -57,9 +60,9 @@ A poster presentation consists of:
     A poster pdf file (preferred size: A2, 16.5 x 23.4 inches)
     A short description, which may include a link to an interactive site, such as a Voilà dashboard
 
-# Guidelines for proposing a talk or poster
+## Guidelines for proposing a talk or poster
 
-## Speaker Profile
+### Speaker Profile
 
 To propose a talk or poster, you will first need to create a speaker profile.
 This includes information such as your name (as you would like it to appear in
@@ -76,7 +79,7 @@ can be edited to add other authors.
 Can the speaker profile be edited after acceptance, so that we don't require
 unnecessary informations.
 
-## Proposal
+### Proposal
 
 A talk or poster proposal must include the following information that will be
 listed publicly in the conference program for accepted talks or posters.
@@ -93,21 +96,16 @@ listed publicly in the conference program for accepted talks or posters.
   different people. Feel free to include any additional details regarding
   prerequisites for your talk, as well as what audience may benefit from it.
 
-- A summary: Submit a short paragraph describing the topic and key
-  takeaways for attendees. The description will be included in the conference
-  program announcements, should it be selected.
+- A summary: Submit a summary describing the topic and key takeaways for
+  attendees. The description will be included in the conference program
+  announcements, should it be selected.
 
-+ (merge this with brief summary) A detailed outline: This is a self-contained statement that summarises the
-  objective of the talk or poster, its outline, central thesis, and key
-  takeaways. After reading the description, the audience should have an idea
-  of the overall presentation and know what to expect. The description should
-  also make clear what background knowledge is expected from the attendees.
-  Include links to relevant source code, articles, videos, or other
-  information that add context to your proposal.
+  After reading this summary, the audience should have an idea of the overall
+  presentation and know what to expect. 
 
 - Your affiliation: for the purposes of this talk or poster. 
 
-# Talk and poster proposal submission FAQs
+## Talk and poster proposal submission FAQs
 
 - What can I do to increase the likelihood of my talk/poster being accepted?
 
@@ -155,10 +153,34 @@ listed publicly in the conference program for accepted talks or posters.
 
   
 The tips above were adapted from the PyData resources. We also recommend
-checking out blog posts by Craig Kerstiens and Hynek Schlawack for more great
+checking out blog posts by [Craig
+Kerstiens](https://www.craigkerstiens.com/2012/06/19/pro-tips-for-conference-talks/)
+and [Hynek Schlawack](https://hynek.me/articles/speaking/) for more great
 advice on this topic.
 
-# Misc
+# FORM TO ADD TO WEBSITE
+
+- Are you submitting
+    - a talk
+    - a poster
+    - a talk or poster
+- Choose the track that best fit your topic:
+   - Community: tools & practices
+   - Enterprise Jupyter Infrastructure
+   - Jupyter in Education
+   - Jupyter for Scientific Discoveries
+   - Data science
+   - Others
+
+- Title
+- Summary
+
+**Note:** We are considering child care options. Please reach out to us
+separately (FIXME HOW!!) if you are interested.
+
+
+
+# QUESTIONS FOR WEBSITE
 
 - Ask during CFP if submitter would agree to review submission and in which
 categories. 
@@ -193,7 +215,7 @@ categories.
 
 
 
-# Schedule
+# SCHEDULE
 
 
 
