@@ -11,7 +11,7 @@ JupyterCon!
 
 CFP opens: October 31st, 2022
 CFP closes: December, 15th, 2022 (Anywhere on Earth)
-Authors receive proposal accept/decline decision February, 28th, 2023
+Authors receive proposal accept/decline decision February, 17th, 2023
 
 ## Talks at JupyterCon 2023
 
@@ -135,7 +135,6 @@ listed publicly in the conference program for accepted talks or posters.
     Here are some common pitfalls that could lead to the proposal being rejected:
 
         - **Overly long proposal** Keep it simple, clear and focused.
-
 	- **Future work** While talking about future work is interesting and
 	  could be mentioned in your talk, the core content of the talk should
 	  already be shaped, and you should be able to describe it in your
@@ -181,7 +180,7 @@ You are allowed to submit multiple talks proposals.
     - a poster
     - a talk or poster
 
-"A talk or a poster": You are submitting a talk, but if there are not enough
+"A talk or a poster:" You are submitting a talk, but if there are not enough
 spots, you would still like to present the same subject as a poster.
 
 - Choose the track that best fit your topic, this is a guideline to help triage
@@ -197,11 +196,11 @@ spots, you would still like to present the same subject as a poster.
 - Summary
 - We are working on providing scholarships for attendees and speaker that may nt
   have the financial capability to attend otherwise. Would you require
-  financial aid to attend ?
+  financial aid to attend?
 
 You can edit your proposal after submission.
 
-**Help us review review JupyterCon submissions !** 
+**Help us review review JupyterCon submissions!** 
 
 Previous Year JupyterCons revived close to 1000 Submissions, we want your help
 to find the ones you want to see. If you are interested in helping review a few
@@ -211,8 +210,7 @@ the CFP website
 **Note:** We are considering child care options. Please reach out to us
 separately (FIXME HOW!!) if you are interested.
 
-Matthias: I suggest jupytercon@numfocus.org, and we ask to get access/delegation
-? 
+Matthias: I suggest jupytercon@numfocus.org, and we ask to get access/delegation? 
 
 
 # I want to help review form
