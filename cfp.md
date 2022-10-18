@@ -10,7 +10,7 @@ have known when starting to use Jupyter? Propose a talk or poster at the
 JupyterCon!
 
 CFP opens: October 31st, 2022
-CFP closes: January, 31st, 2023 (Anywhere on Earth)
+CFP closes: December, 15th, 2022 (Anywhere on Earth)
 Authors receive proposal accept/decline decision February, 28th, 2023
 
 ## Talks at JupyterCon 2023
