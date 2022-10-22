@@ -208,9 +208,7 @@ talks, please sign up on _this form_. (FIX ME), we will add you as a reviewer to
 the CFP website
 
 **Note:** We are considering child care options. Please reach out to us
-separately (FIXME HOW!!) if you are interested.
-
-Matthias: I suggest jupytercon@numfocus.org, and we ask to get access/delegation? 
+separately at [jupytercon@numfocus.org](mailto:jupytercon+childcare@numfocus.org) if you are interested.
 
 
 # I want to help review form
