@@ -1,5 +1,15 @@
 # CFP
 
+CFP software. 
+
+Most Numfocus conferences uses the `pretalx` software for the CFP. 
+
+There is some limitation in how questions can be asked and where text can be added. 
+In particular Pretalx forces a multi-page survey, and free text can often only be added at the top of each sections. 
+
+Once a proposal is submitted, author will receive an email that can be configured. 
+
+
 ## Propose a talk or poster
 
 What lessons do you have to share with the Jupyter community? Have you
@@ -162,11 +172,7 @@ advice on this topic.
 
 **Note**
 
-Due to the location of the venue, we want to inform you ahead of time that we
-will not be able to to check Covid vaccination status, nor enforce
-recent negative testing. Though we will recommend for attendees to wear masks,
-be vaccinated and regularly test. We will do our best to also provide quick test
-on the venue.
+Due to the location of the venue, we want to inform you ahead of time that we will not be able to to check Covid vaccination status, nor enforce recent negative testing. Though we will recommend for attendees to wear masks, be vaccinated and regularly test. We will do our best to also provide quick test on the venue.
 
 Reminder: We are targeting 25-30 minutes talks, questions included.
 
